@@ -11,4 +11,4 @@ def multiply_num(a,b):
 
 res1 = add_num(10,10)
 res2 = multiply_num(10,6)
-print("Addistion - {}, Multiplication - {}".format(res1,res2))
+print("Addition - {}, Multiplication - {}".format(res1,res2))
